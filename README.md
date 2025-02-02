@@ -9,4 +9,4 @@ CHECK OUT MY WORK:
 <h3>Here are some of the screenshots:</h3>
 <img src="figma1.png">
 <img src="figma2.png">
-<h6>Thank you for checking this out! Hope you guys liked it</h6>
+<h4>Thank you for checking this out! Hope you guys liked it</h4>
